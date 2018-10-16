@@ -25,12 +25,14 @@
     "prop-types": "^15.6.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-styleguidist": "^7.0.16",
-    "webpack": "^3.4.1"
+    "react-styleguidist": "^7.3.10"
   },
   "scripts": {
     "start": "styleguidist server",
     "styleguide": "styleguidist server",
     "styleguide:build": "styleguidist build"
+  },
+  "devDependencies": {
+    "webpack": "^3.12.0"
   }
 }
